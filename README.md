@@ -44,7 +44,12 @@ Open the unity_dashboard folder in Unity Hub (Unity 2022+ recommended).
 Open the Main Scene and press Play.
 Hardware Calibration: Once running, stretch your fingers backward as far as possible for one second, then squeeze them into a tight fist. This calibrates the 3D hand model's absolute minimum and maximum thresholds.
 
+---
 
+### ⭐️ Show your support
+If you found this pipeline useful for your research, biosignal processing, or multimodal sensor projects, please consider giving this repository a star! 
+
+[![Star on GitHub](https://img.shields.io/github/stars/Maahe-25/multimodal-tactile-pipeline.svg?style=social)](https://github.com/Maahe-25/multimodal-tactile-pipeline/stargazers)
 """
 Project: Multimodal Tactile & Spatial Sensor Fusion Pipeline
 Author: Guguloth Mahendar
