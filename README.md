@@ -32,7 +32,7 @@ Windows OS (Required for fglove.dll execution); I got this from their SDK
 
 🚀 Installation & Execution
 1. Set up the Tactile Environment (32-bit)
-You must use a 32-bit installation of Python for this step. Download the official 5DT SDK and place your fglove.dll file directly into the python_32bit_tactile directory. Open a 32-bit terminal and run:
+You must use a 32-bit Python installation for this step. Download the official 5DT SDK and place your fglove.dll file directly into the python_32bit_tactile directory. Open a 32-bit terminal and run:
 python python_32bit_tactile/transmitter.py
 2. Set up the Spatial Environment (64-bit)
 Open a separate 64-bit terminal (e.g., Anaconda). Install the dependencies and run the tracker:
@@ -42,4 +42,10 @@ python python_64bit_spatial/camera_tracker.py
 Open the unity_dashboard folder in Unity Hub (Unity 2022+ recommended).
 
 Open the Main Scene and press Play.
-Hardware Calibration: Once running, stretch your fingers backward as far as possible for one second, then squeeze them into a tight fist. This calibrates the absolute minimum and maximum thresholds for the 3D hand model.
+Hardware Calibration: Once running, stretch your fingers backward as far as possible for one second, then squeeze them into a tight fist. This calibrates the 3D hand model's absolute minimum and maximum thresholds.
+
+
+"""
+Project: Multimodal Tactile & Spatial Sensor Fusion Pipeline
+Author: Guguloth Mahendar
+"""
