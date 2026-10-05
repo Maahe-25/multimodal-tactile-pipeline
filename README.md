@@ -49,7 +49,6 @@ Hardware Calibration: Once running, stretch your fingers backward as far as poss
 ### ⭐️ Show your support
 If you found this pipeline useful for your research, biosignal processing, or multimodal sensor projects, please consider giving this repository a star! 
 
-[![Star on GitHub](https://img.shields.io/github/stars/Maahe-25/multimodal-tactile-pipeline.svg?style=social)](https://github.com/Maahe-25/multimodal-tactile-pipeline/stargazers)
 """
 Project: Multimodal Tactile & Spatial Sensor Fusion Pipeline
 Author: Guguloth Mahendar
